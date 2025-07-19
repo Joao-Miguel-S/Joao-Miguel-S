@@ -1,4 +1,4 @@
-## Bom dia, boa tarde e boa noite. Sou João Miguel!
+## Bom dia, boa tarde e boa noite.
 
 <p>Formado no curso técnico de Desenvolvimento de Sitemas e estudante no curso de Ciência da Computação. Busco criar códigos eficazes em solucionar problemas e 
  atender as necessidades especificadas.
